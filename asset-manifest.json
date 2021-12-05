@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/smartQR-public/static/css/main.5fadef85.chunk.css",
+    "main.js": "/smartQR-public/static/js/main.ec1f8be3.chunk.js",
+    "main.js.map": "/smartQR-public/static/js/main.ec1f8be3.chunk.js.map",
+    "runtime-main.js": "/smartQR-public/static/js/runtime-main.02703fbd.js",
+    "runtime-main.js.map": "/smartQR-public/static/js/runtime-main.02703fbd.js.map",
+    "static/js/2.b47a61d0.chunk.js": "/smartQR-public/static/js/2.b47a61d0.chunk.js",
+    "static/js/2.b47a61d0.chunk.js.map": "/smartQR-public/static/js/2.b47a61d0.chunk.js.map",
+    "static/js/3.18c306d4.chunk.js": "/smartQR-public/static/js/3.18c306d4.chunk.js",
+    "static/js/3.18c306d4.chunk.js.map": "/smartQR-public/static/js/3.18c306d4.chunk.js.map",
+    "index.html": "/smartQR-public/index.html",
+    "static/css/main.5fadef85.chunk.css.map": "/smartQR-public/static/css/main.5fadef85.chunk.css.map",
+    "static/js/2.b47a61d0.chunk.js.LICENSE.txt": "/smartQR-public/static/js/2.b47a61d0.chunk.js.LICENSE.txt",
+    "static/media/logo.7fc20939.svg": "/smartQR-public/static/media/logo.7fc20939.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.02703fbd.js",
+    "static/js/2.b47a61d0.chunk.js",
+    "static/css/main.5fadef85.chunk.css",
+    "static/js/main.ec1f8be3.chunk.js"
+  ]
+}

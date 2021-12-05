@@ -1,0 +1,15 @@
+<svg width="256" height="256" xmlns="http://www.w3.org/2000/svg">
+ <g id="Layer_1">
+  <title>Layer 1</title>
+  <line stroke-width="16" id="svg_30" y2="96" x2="48" y1="48" x1="48" stroke="#FFF" fill="none"/>
+  <line stroke-width="16" id="svg_31" y2="48" x2="160" y1="48" x1="208" stroke="#FFF" fill="none"/>
+  <line stroke-width="16" id="svg_32" y2="48" x2="96" y1="48" x1="48" stroke="#FFF" fill="none"/>
+  <line stroke-width="16" id="svg_33" y2="96" x2="208" y1="48" x1="208" stroke="#FFF" fill="none"/>
+  <line stroke-width="16" id="svg_34" y2="208" x2="48" y1="160" x1="48" stroke="#FFF" fill="none"/>
+  <line stroke-width="16" id="svg_35" y2="208" x2="96" y1="208" x1="48" stroke="#FFF" fill="none"/>
+  <line stroke-width="16" id="svg_36" y2="208" x2="208" y1="208" x1="160" stroke="#FFF" fill="none"/>
+  <line stroke-width="16" id="svg_37" y2="160" x2="208" y1="208" x1="208" stroke="#FFF" fill="none"/>
+  <line stroke-width="16" id="svg_38" y2="128" x2="240" y1="128" x1="16" stroke="#FFF" fill="none"/>
+ </g>
+
+</svg>
